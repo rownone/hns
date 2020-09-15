@@ -1,5 +1,5 @@
 {
-  "name": "nextjs",
+  "name": "my-hello-world",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "9.5.1",
+    "next": "9.5.3",
+    "next-iron-session": "4.1.7",
+    "prop-types": "15.7.2",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "swr": "0.2.3"
   }
 }
